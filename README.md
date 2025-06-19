@@ -38,13 +38,10 @@ La base de données utilisée est H2 en mode fichier pour assurer la persistance
 
 ## Installation & Lancement
 
-1. Cloner le projet :
+Cloner le projet :
 
-```bash
-git clone <URL_DU_REPO>
-cd gestiondettes
 
-3. Utiliser Git Bash ou un autre terminal
+Utiliser Git Bash ou un autre terminal
 Le wrapper fonctionne mieux dans Git Bash (installé avec Git)
 
 Accéder à l’API via http://localhost:8080/api
